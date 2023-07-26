@@ -1,0 +1,14 @@
+{
+    "name": "test/test",
+    "require": {
+        "amazon-php/sp-api-sdk": "^5.0",
+        "kriswallsmith/buzz": "^1.2",
+        "monolog/monolog": "^3.4",
+        "nyholm/psr7": "^1.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

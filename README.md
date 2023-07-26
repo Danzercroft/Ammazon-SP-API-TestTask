@@ -20,3 +20,6 @@ Start main.php
 php public/main.php
 ```
 
+## How to improve
+1. Add feature work with confing
+2. Add test
